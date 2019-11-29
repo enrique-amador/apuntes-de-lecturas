@@ -16,8 +16,53 @@ NATURALEZA DE LA HISTORIA DE LA FILOSOFÍA
 - La historia de la filosofía da cuenta de los esfuerzos del hombre por hallar la Verdad mediante la razón discursiva
 - De todos modos, podemos decir que la busca de la verdad es, en definitiva, la busca de la Verdad Absoluta, de Dios, y que hasta los sistemas filosóficos que parecen refutar este aserto, como por ejemplo el materialismo histórico, en realidad lo confirman, ya que todos ellos buscan, aun sin advertirlo y aunque quizá no lo quieran reconocer, un último Fundamento, una Realidad suprema
 
+<<<<<<< HEAD
 
 "Lo mejor para el hombre sería no haber nacido ni haber visto la luz del sol; pero, una vez nacido (10 mejor para él es) atravesar las puertas de la muerte con la mayor rapidez posible", declara Teognis p.29 
 
 las palabras de Calderón (tan caro a Schopenhauer): el delito mayor del hombre es haber nacido. (La vida es sueño)
 
+=======
+PARTE I LA FILOSOFíA PRESOCRÁTICA
+
+CAPÍTULO II LA CUNA DEL PENSAMIENTO OCCIDENTAL: JONIA
+p7
+
+"... su concepción de la ἀρετή se identificaba en gran parte con la de la capacidad para lograr el éxito." p.29
+
+Muy vinculada con la voluntad de poder está la concepción de la ὕβρις. El hombre que va demasiado lejos, que trata de ser y de tener más de 10 que el destino le reserva, concítase inevitablemente la envidia de los dioses y corre a su perdición. [...]La pasión ciega alimenta la confianza en sí, y la jactanciosa confianza en sí mismo lleva a la ruina.
+
+si la atracción de la voluntad de poder es un hecho, también es un hecho el ideal griego de la moderación y la armonía.
+
+gran parte de la religión olímpica [fue] una represión que se impuso a sí mismo el dionisíaco griego
+
+aquellos hombres vieron que, a pesar de todos los cambios y transiciones, debe de haber algo que permanece. ¿ Por qué? Pues porque el cambio es el paso de alguna cosa a alguna otra. Ha de haber algo primordial, algo que persista, que vaya toman- do varias formas y que soporte este proceso del cambio.
+
+El hecho del cambio, del movimiento, en el sentido aristotélico, les sugirió la noción de unidad, aunque, como dice Aristóteles, no explicaran el movimiento.
+
+Urstoff: el elemento primigenio, el sustrato original o "la estofa primitiva" del universo.
+
+Los jonios diferían entre sí al. describir las características de su respectivo Urstoff, pero todos ellos lo tenían por un ser material
+
+Aún no se había descubierto la contraposición entre el espíritu y la materia; de suerte que, aunque los jonios eran de facto materialistas -por cuanto hacían de una forma de la materia el principio unificador y el elemento primitivo de todas las cosas- difícilmente se les puede calificar de materialistas en el sentido que hoy damos a este término.
+
+Y aquellos pensadores no llegaron a sus conclusiones mediante una aproximación científica, experimental, sino valiéndose de la razón especulativa: la unidad que afirmaron era, sin duda, una unidad material, pero una unidad puesta por el pensamiento. 
+
+podríamos llamar tal vez a las cosmologías jonias modalidades del materialismo abstracto: en ellas es ya discernible la noción de la unidad en medio de lo diverso y la de lo diverso como entrando dentro de la unidad; y esto es ya una concepción filosófica.
+
+[los jonios tenían la] concepción de un universo regido por una ley, de un universo que no es juguete del capricho o de la espontaneidad sin normas, que no es mero campo para el dominio desordenado y "egoísta" de un elemento sobre otro
+
+CAPÍTULO III LOS PIONEROS: LOS PRIMEROS FILÓSOFOS JONIOS
+
+I Tales
+
+
+
+Referencias:
+
+Caldeón de la Barca: La vida es Sueño
+Tucídides: Los Melios
+Eurípides: Las Bacantes 
+
+http://mestreacasa.gva.es/web/castillo_fra
+>>>>>>> refs/remotes/origin/master
