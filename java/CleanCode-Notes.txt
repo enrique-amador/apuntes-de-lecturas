@@ -1,0 +1,94 @@
+Clean Code - Robert C. Martin
+
+1. Clean Code
+
+We know good code matters because we’ve had to deal for so long with its lack.
+
+Of course you have been impeded by bad code. So then—why did you write it?
+
+We’ve all felt the relief of seeing our messy program work and deciding that a working mess is better than nothing. We’ve all said we’d go back and clean it up later. Of course, in those days we didn’t know LeBlanc’s law: Later equals never
+
+The Total Cost of Owning a Mess
+- As the mess builds, the productivity of the team continues to decrease
+
+The Grand Redesign in the Sky
+-  keeping your code clean is not just cost effective; it’s a matter of professional survival.
+
+Attitude
+- But the fault, dear Dilbert, is not in our stars, but in ourselves. We are unprofessional.
+
+- Most managers want good code, even when they are obsessing about the schedule. They may defend the schedule and requirements with passion; but that’s their job. It’s your job to defend the code with equal passion.
+
+- it is unprofessional for programmers to bend to the will of managers who don’t understand the risks of making messes.
+
+The Primal Conundrum
+- The only way to make the deadline—the only way to go fast—is to keep the code as clean as possible at all times.
+
+The Art of Clean Code?
+- being able to recognize clean code from dirty code does not mean that we know how to write clean code!
+
+- Writing clean code requires the disciplined use of a myriad little techniques applied through a painstakingly acquired sense of “cleanliness.” This “code-sense” is the key.
+
+- a programmer who writes clean code is an artist who can take a blank screen through a series of transformations until it is an elegantly coded system.
+
+What Is Clean Code?
+
+- Bjarne Stroustrup, inventor of C++.
+- I like my code to be elegant and efficient.
+- Clean code does one thing well.
+- Bad code tempts the mess to grow! When others change bad code, they tend to make it worse.
+-  Clean code is focused. Each function, each class, each module exposes a single-minded attitude that remains entirely undistracted, and unpolluted, by the surrounding details.
+
+Grady Booch, author of Object Oriented Analysis 
+- Clean code reads like well-written prose.
+- Think back on a really good book that you’ve read. Remember how the words disappeared to be replaced by images! 
+- Like a good novel, clean code should clearly expose the tensions in the problem to be solved. 
+
+“Big” Dave Thomas, founder of OTI
+- Clean code can be read, and enhanced by a developer other than its original author. It has unit and acceptance tests. It has meaningful names. It provides one way rather than many ways for doing one thing. It has minimal dependencies,
+- Dave is right. Code, without tests, is not clean.
+- Smaller is better.
+
+Michael Feathers, author of Working Effectively with Legacy Code
+- Clean code always looks like it was written by someone who cares. There is nothing obvious that you can do to make it better
+
+Ron Jeffries, author of Extreme Programming Installed 
+- Runs all the tests;
+- Contains no duplication;
+	- When the same thing is done over and over, it’s a sign that there is an idea in our mind that is not well represented in the code.
+- Expresses all the design ideas that are in the system (meaningful names);
+- Minimizes the number of entities such as classes, methods, functions, and the like.
+- early building of simple abstractions. One example is “find things in a collection.” I will often wrap the particular implementation in a more abstract method or class. 1) I can change the implementation any time I want, and 2) the collection abstraction often calls my attention to what’s “really” going on.
+
+Ward Cunningham, inventor of Wiki
+- each routine you read turns out to be pretty much what you expected
+- [code ] obvious, simple, and compelling
+
+Schools of Thought
+- None of these different schools is absolutely right. Yet within a particular school we act as though the teachings and techniques are right. 
+
+We Are Authors
+- The next time you write a line of code, remember you are an author, writing for readers who will judge your effort. 
+-  Indeed, the ratio of time spent reading vs. writing is well over 10:1. We are constantly reading old code as part of the effort to write new code.
+- making it easy to read actually makes it easier to write
+- You cannot write code if you cannot read the surrounding code. 
+
+The Boy Scout Rule
+- It’s not enough to write the code well. The code has to be kept clean over time.
+- Leave the [code] cleaner than you found it.
+- The cleanup doesn’t have to be something big. Change one variable name for the better, break up one function that’s a little too large, eliminate one small bit of duplication, ...
+
+Conclusion
+- this book cannot promise to make you a good programmer. It cannot promise to give you “code-sense.”
+- You’ll see lists of heuristics, disciplines, and techniques. You’ll see example after example. After that, it’s up to you. 
+- Practice.
+
+2. Meaningful Names
+- What follows are some simple rules for creating good names.
+
+Use Intention-Revealing Names
+- Choosing good names takes time but saves more than it takes.
+49
+Referencias:
+
+- https://refactoring.guru/extract-method Refactorización y Patrones de Diseño!
