@@ -54,7 +54,20 @@ podríamos llamar tal vez a las cosmologías jonias modalidades del materialismo
 
 CAPÍTULO III LOS PIONEROS: LOS PRIMEROS FILÓSOFOS JONIOS
 
+<<<<<<< HEAD
 I Tales
+=======
+
+
+
+
+
+
+
+
+
+
+>>>>>>> refs/remotes/origin/master
 
 
 
