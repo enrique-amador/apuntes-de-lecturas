@@ -16,6 +16,13 @@ NATURALEZA DE LA HISTORIA DE LA FILOSOFÍA
 - La historia de la filosofía da cuenta de los esfuerzos del hombre por hallar la Verdad mediante la razón discursiva
 - De todos modos, podemos decir que la busca de la verdad es, en definitiva, la busca de la Verdad Absoluta, de Dios, y que hasta los sistemas filosóficos que parecen refutar este aserto, como por ejemplo el materialismo histórico, en realidad lo confirman, ya que todos ellos buscan, aun sin advertirlo y aunque quizá no lo quieran reconocer, un último Fundamento, una Realidad suprema
 
+<<<<<<< HEAD
+
+"Lo mejor para el hombre sería no haber nacido ni haber visto la luz del sol; pero, una vez nacido (10 mejor para él es) atravesar las puertas de la muerte con la mayor rapidez posible", declara Teognis p.29 
+
+las palabras de Calderón (tan caro a Schopenhauer): el delito mayor del hombre es haber nacido. (La vida es sueño)
+
+=======
 PARTE I LA FILOSOFíA PRESOCRÁTICA
 
 CAPÍTULO II LA CUNA DEL PENSAMIENTO OCCIDENTAL: JONIA
@@ -47,9 +54,15 @@ podríamos llamar tal vez a las cosmologías jonias modalidades del materialismo
 
 CAPÍTULO III LOS PIONEROS: LOS PRIMEROS FILÓSOFOS JONIOS
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+I Tales
+=======
+=======
 I.- Tales
 Otro filósofo milesio f
 el punto de mayor importancia es que Tales declaró que el elemento primario de todas las cosas es el agua; o sea que, de hecho, planteó la cuestión del Uno en todo.
+>>>>>>> refs/remotes/origin/master
 
 la importancia de este pensador primitivo consiste en que él fue quien planteó la cuestión acerca de cuál sea la naturaleza última, fundamental, del mundo, y no en la respuesta que él diese de hecho a tal pregunta
 
@@ -61,8 +74,18 @@ Sólo se puede responder adecuadamente a la complejidad del problema de 10 Uno y
 
 en. Tales vemos claramente la transición desde el mito a la ciencia y a la filosofía
 
+<<<<<<< HEAD
+
+
+
+
+>>>>>>> refs/remotes/origin/master
+
+
+=======
 II.- Anaximandro
 Buscó, como Tales, el elemento primordial y básico de todas las cosas
+>>>>>>> refs/remotes/origin/master
 
 decidió que ese elemento no podía ser ninguna clase particular de materia
 
@@ -187,8 +210,12 @@ Tucídides: Los Melios
 Eurípides: Las Bacantes 
 
 http://mestreacasa.gva.es/web/castillo_fra
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/master
+=======
 
 Diccionario
 
 Tales			θαλῆς
 Filosofía		φιλοσοϕίας
+>>>>>>> refs/remotes/origin/master
