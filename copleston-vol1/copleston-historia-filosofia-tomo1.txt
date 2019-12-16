@@ -16,8 +16,6 @@ NATURALEZA DE LA HISTORIA DE LA FILOSOFÍA
 - La historia de la filosofía da cuenta de los esfuerzos del hombre por hallar la Verdad mediante la razón discursiva
 - De todos modos, podemos decir que la busca de la verdad es, en definitiva, la busca de la Verdad Absoluta, de Dios, y que hasta los sistemas filosóficos que parecen refutar este aserto, como por ejemplo el materialismo histórico, en realidad lo confirman, ya que todos ellos buscan, aun sin advertirlo y aunque quizá no lo quieran reconocer, un último Fundamento, una Realidad suprema
 
-<<<<<<< HEAD
-
 "Lo mejor para el hombre sería no haber nacido ni haber visto la luz del sol; pero, una vez nacido (10 mejor para él es) atravesar las puertas de la muerte con la mayor rapidez posible", declara Teognis p.29 
 
 las palabras de Calderón (tan caro a Schopenhauer): el delito mayor del hombre es haber nacido. (La vida es sueño)
@@ -74,18 +72,9 @@ Sólo se puede responder adecuadamente a la complejidad del problema de 10 Uno y
 
 en. Tales vemos claramente la transición desde el mito a la ciencia y a la filosofía
 
-<<<<<<< HEAD
-
-
-
-
->>>>>>> refs/remotes/origin/master
-
-
 =======
 II.- Anaximandro
 Buscó, como Tales, el elemento primordial y básico de todas las cosas
->>>>>>> refs/remotes/origin/master
 
 decidió que ese elemento no podía ser ninguna clase particular de materia
 
@@ -200,8 +189,21 @@ tetraktys (Τετρακτύς) :
 
 cada cuerpo material es una expresión del número cuatro, puesto que resulta, como un cuarto término, de tres clases de elementos constitutivos (puntos, líneas y superficies).
  
-p44
-  
+para los pitagóricos, el mundo limitado está rodeado por el ilimitado, el aire.
+
+Resumiendo la geometría pitagórica, abarcaría el conjunto de los libros 1, 11, IV, VI (y probablemente el 111) de Euclides
+
+Para los pitagóricos, no sólo la tierra era esférica, sino que no ocupaba el centro del universo. 
+
+El mundo aspira el aire de la masa sin límites que envuelve, y se habla del aire como de lo Ilimitado. Vemos aquí la influencia de Anaxímenes.
+
+
+
+
+
+
+
+
   
 Referencias:
 
@@ -210,12 +212,11 @@ Tucídides: Los Melios
 Eurípides: Las Bacantes 
 
 http://mestreacasa.gva.es/web/castillo_fra
-<<<<<<< HEAD
->>>>>>> refs/remotes/origin/master
+
 =======
 
 Diccionario
 
 Tales			θαλῆς
 Filosofía		φιλοσοϕίας
->>>>>>> refs/remotes/origin/master
+magín: ingenio, inteligencia
