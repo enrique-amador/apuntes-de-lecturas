@@ -311,11 +311,11 @@ Jenófanes combate el antropomorfismo de las divinidades griegas: "...los caball
 
 en su lugar afirma a "un solo Dios, mucho más grande que los dioses y que los hombres..."
 
-Lo más probable es, pues, que J enófanes fuese monista y no monoteísta.
+Lo más probable es, pues, que Jenófanes fuese monista y no monoteísta.
 
 el auténtico fundador de la escuela eleática desde un punto de vista histórico y filosófico fue, sin duda, Parménides, ciudadano de Elea
 
-cuando tenía ya unos 6S años, conversó en Atenas con el joven Sócrates
+cuando tenía ya unos 65 años, conversó en Atenas con el joven Sócrates
 
 Parménides escribió en verso, y la mayoría de los fragmentos que de su obra poseemos fueron conservados por Simplicio en su comentario
 
@@ -333,9 +333,9 @@ Ya en Tales o Heráclito se reconoce hasta cierto punt esta distinción. Pero Pa
 
 * En la filosofía platónica vino a ser de capital importancia esta distinción, igual que tiene que serlo en todas las formas el idealismo.
 
-a los ojos de Parménides, el Uno es sensible y material, por 10 que hacer de nuestro filósofo un idealista objetivo a la manera de los del siglo XIX es incurrir en un anacronismo: de la negación del cambio no se sigue que el Uno sea Idea.
+a los ojos de Parménides, el Uno es sensible y material, por lo que hacer de nuestro filósofo un idealista objetivo a la manera de los del siglo XIX es incurrir en un anacronismo: de la negación del cambio no se sigue que el Uno sea Idea.
 
-Quizá el pensamiento sera el camino para llegar al Uno, pero no éste el pensamiento mismo.
+Quizá el pensamiento sera el camino para llegar al Uno, pero no es éste el pensamiento mismo.
 
 De ser así Platón lo tendría a él, en vez de Anaxágoras por su Nous, como el primer gran filósofo.
 
@@ -345,25 +345,42 @@ Lo "Ente", a saber, la Realidad, el Ser, sea cual fuere su naturaleza, es, exist
 
 "... lo mismo es poder ser pensado que poder ser"
 
-58
+el Ser, la Realidad, "lo Ente'.', no fue primero posible, es decir, nada, y después existente, sino que siempre ha existido; con más exactitud: "lo Ente es".
 
+el Ser, "lo Ente", no surge ni del ser ni del no-ser: nunca ha empezado a ser, sino que simplemente es. 
 
+"Uno solo es el camino que nos queda: el de decir que lo 'Ente es'. Y en este camino hay múltiples indicios de que lo que es es increado e indestructible, pues es completo, imperturbable e infinito." 
 
+El infinito debió de significar para él "indeterminado", "indefinido", y el Ser, como Real que es, no puede ser indefinido o indeterminado, no puede cambiar
 
+Es temporalmente infinito, o sea, sin principio ni fin, pero espacialmente finito.
 
+su realidad es homogénea en todas direcciones, y, por ende, es de forma esférica
 
+"Parménides no es, como algunos han afirmado, 'el padre del idealismo', sino que, al contrario, todo materialismo arraiga en su concepción de la realidad"
 
+Sin duda, es verdad que el Ser de Parménides sólo puede ser aprehendido' por el pensamiento, lo mismo que la realidad de Tales o la de Anaxímenes; pero identificar el "ser pensado" con el "ser pensamiento" es, seguramente, confundir las cosas.
 
+Aunque materialista, su pensamiento contiene también los gérmenes del idealismo:
+	* afirmó la inmutabilidad del Ser
+	* sostuvo que la materia era indestructible
 
+Empédocles y Demócrito aceptaron esta tesis y se valieron de ella en su doctrina atomista (Demócrito interpretaba el cambio como algo debido a la agregación o separación de las partículas indestructibles de la materia.)
 
+Platón tomó la tesis de Parménides relativa a la inmutabilidad del Ser e identificó el ser permanente con la Idea subsistente y objetiva. 
 
+Por lo demás, Platón hizo mucho uso de la distinción parmenídea entre el mundo de la razón y el de los sentidos o aparencial
 
+Heráclito, con su teoría del Πάντα ῥεῖ ("todo fluye"), insiste en el devenir. Afirmó que existe el Uno-Fuego, pero sostenía que el cambio, el devenir, la tensión, son esenciales para la existencia del Uno
 
+Para Platón los objetos del verdadero conocimiento son estables y eternos, como el Ser de Parménides; pero no son materiales como el Ser parmenídeo, sino que son, por el contrario, Formas ideales, subsistentes e inmateriales, organizadas jerárquicamente y que culminan en la Idea del Bien.
 
+Para Aristóteles el Ser, en el sentido de la Realidad última e inmaterial, Dios, es el Pensamiento inmutable y subsistente, noésis noeseos. En cuanto al ser material, Aristóteles concuerda con Heráclito en decir que está sometido al cambio... convirtió las Ideas de Platón en formas o ideas concretas, en principios formales inherentes a los objetos de este mundo. Además, Aristóteles resuelve el dilema de Parménides mediante su insistencia en la noción de potencia. Patentiza que no hay contradicción en decir que algo es X actualmente pero Y potencialmente.
 
+Para Meliso fuera del Ser no puede haber un vacío, "pues lo que es vacío es nada. Lo que es nada no puede ser".  Mas, si al Ser no lo limita nada, es infinito y no finito.
 
-
-
+CAPÍTULO VII
+LA DIALÉCTICA DE ZENÓN
 
 
 
